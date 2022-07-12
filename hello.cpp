@@ -4,6 +4,5 @@ int main()
 {
   cout << "hello world" << endl;
   cout << "在github第一次修改" << endl;
-  cout << "333" << endl;
-  cout<<"111"<<endl;
+  cout << "vscode修改并推到github里" << endl;
 }
